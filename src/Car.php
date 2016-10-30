@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpProjectExample;
+namespace FastTcp;
 
 class Car {
     private $brand;

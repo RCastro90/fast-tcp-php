@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use PhpProjectExample\Car;
+use FastTcp\Car;
 
 class CarTest extends TestCase {
     public function testConstructor() {
