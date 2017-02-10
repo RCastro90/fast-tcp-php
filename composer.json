@@ -1,12 +1,12 @@
 {
-    "name": "RCastro90/fast-tcp-php",
-    "description": "fast-tcp client in php.",
+    "name": "alemures/fast-tcp-php",
+    "description": "fast-tcp client implemented in php",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Roberto Castro Arjona",
-            "email": "robertocastroarjona@gmail.com"
+            "name": "Alejandro Santiago Nieto",
+            "email": "alemures@hotmail.com"
         }
     ],
     "require": {},
